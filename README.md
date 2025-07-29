@@ -1,2 +1,3 @@
 # Oops-lab
-java code
+
+  Ex-1 Java application to generate elctricity bill
